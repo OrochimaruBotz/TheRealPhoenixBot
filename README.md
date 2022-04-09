@@ -9,7 +9,7 @@ If you want to create your own bot, you can basically follow the steps given [he
 
 OR
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/rsktg/TheRealPhoenixBot.git)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/sjmxaditi/TheRealPhoenixBot.git)
 
 ### Note
 We don't support Heroku anymore. If you can't get it working on Heroku, please don't come to the support chat and complain/ask for assistance.
